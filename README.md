@@ -69,12 +69,6 @@ Rust: Growth Hamiltonian (Fibonacci/Ising/ToricCode anyon models), ER bridge (GJ
 
 ---
 
-## What is NOT connected
-
-Per `VOXEL_FRONTEND_INTEGRATION_HANDOFF.md`: the Python simulation and Rust engine run as **separate processes with no shared data format and no IPC**. The Three.js frontend uses hardcoded Bell state data — it does not poll the simulation. The Granite quantum compiler requires a ~8B parameter HuggingFace model download. All quantum operations are Qiskit Aer classical simulation — no QPU anywhere.
-
----
-
 ## Run
 
 ```bash
