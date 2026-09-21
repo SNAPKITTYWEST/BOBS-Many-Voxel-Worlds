@@ -1,6 +1,5 @@
-# BOB Agent Hackathon 2.0 — Quantum Voxel Civilization
+# BOB Agent Quantum Voxel Civilization
 
-Built by Ahmad Ali Parr × SnapKitty for IBM Bob 2.0 Hackathon, August 2026.
 
 This is a sovereign multi-agent simulation: autonomous agents build, explore, and survive
 across a 3D quantum voxel world. The simulation runs from a deterministic seed, commits
